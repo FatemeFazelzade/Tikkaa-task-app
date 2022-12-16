@@ -1,0 +1,17 @@
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+h4 {
+  color: #3d1c6d;
+  line-height: 2rem;
+}
+
+h3 {
+  color: #008c95;
+  font-style: bold;
+  margin-top: 1rem;
+}
